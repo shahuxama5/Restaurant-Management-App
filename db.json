@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "usama mehmood",
+      "email": "uxama@gmail.com",
+      "mobile": 3152845322,
+      "address": "gulshan-e-iqbal",
+      "service": "pizza pakora"
+    },
+    {
+      "id": 3,
+      "name": "hamza",
+      "email": "jg@gmail.com",
+      "mobile": 3338098765,
+      "address": "mukka chowk",
+      "service": "kudo paratha"
+    },
+    {
+      "id": 4,
+      "name": "ahsan",
+      "email": "tommy@gmail.com",
+      "mobile": 3219742763,
+      "address": "tommytown in saddar",
+      "service": "pedigree"
+    },
+    {
+      "id": 5,
+      "name": "dani",
+      "email": "follow@gmail.com",
+      "mobile": 3419836723,
+      "address": "gulberg",
+      "service": "chasing van"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Usama Mehmood",
+      "email": "usama@gmail.com",
+      "mobile": 3152845322,
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "",
+      "email": "",
+      "mobile": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "name": "Hamza JG",
+      "email": "jg@gmail.com",
+      "mobile": 3338765433,
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "name": "shazia barkar",
+      "email": "shazia@gmai.com",
+      "mobile": 3338188373,
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "name": "Syed Hamza",
+      "email": "hamza",
+      "mobile": 3360850793,
+      "password": "1234",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
